@@ -1,9 +1,7 @@
 # Financial information notifier
 
-Both files send an email with critical real-time financial information to a list of subscribers in the email list.
+Developed a system that sends an email with critical real-time financial information to a list of subscribers.  Two notifiers were been developed for: 1) stocks (stock_notifier) and 2) arbitrage opportunities (arbitrage_notifier).
 
-1. stock notifier
-Every day at 8:00 am, an email is sent with a specificaiton of stocks whose last close prices are lower than the 200-day SMA's from user-inputted stock portfolios. 
+1) Every day at 8:00 am, an email is sent with a specification of stocks whose last close prices are lower than the 200-day SMA's from user-inputted stock portfolios.
 
-2. arbitrage notifier
-Every 5 hours, an email is sent if there is an arbitrage sports betting opportunity with over 2% guaranteed profit in the user-inputted US state.
+2) Every 5 hours, an email is sent if there is a new arbitrage sports betting opportunity with over 2% guaranteed profit in the user-inputted US state.
