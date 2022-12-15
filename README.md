@@ -1,7 +1,6 @@
 # Financial information notifier
 
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/102631336/207750330-49812e33-c03f-48a0-b000-3cb614331531.png">
-
 <img width="918" alt="image" src="https://user-images.githubusercontent.com/102631336/207750305-fa3e2888-78dc-4a3c-bc9a-46349895c21a.png">
 
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/102631336/207750115-4c0c528a-414b-4748-9595-4b9d1b824bf2.png">
