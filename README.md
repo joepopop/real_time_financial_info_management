@@ -1,7 +1,7 @@
 # Real-time financial information management
 
 ### Backtesting
-<img width="483" alt="image" src="https://user-images.githubusercontent.com/102631336/209899364-32d5e60a-669c-463a-a9bf-699bd7da12c2.png"> <img width="479" alt="image" src="https://user-images.githubusercontent.com/102631336/209899408-fd65cb68-d766-4ce2-b9ec-d54cc3430f1d.png">
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/102631336/210010638-48d4e308-922d-40f0-9de0-8893e3ab2d18.png"> <img width="479" alt="image" src="https://user-images.githubusercontent.com/102631336/209899408-fd65cb68-d766-4ce2-b9ec-d54cc3430f1d.png">
 
 ### Notifier
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/102631336/207751902-5ef50fdb-41cc-499a-b66c-8effbe9ea6c1.png">
