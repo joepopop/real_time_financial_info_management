@@ -1,4 +1,4 @@
-# Financial information notifier
+# Real-time financial information management
 
 ### Backtesting
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/102631336/209899364-32d5e60a-669c-463a-a9bf-699bd7da12c2.png"> <img width="479" alt="image" src="https://user-images.githubusercontent.com/102631336/209899408-fd65cb68-d766-4ce2-b9ec-d54cc3430f1d.png">
